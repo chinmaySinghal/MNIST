@@ -1,5 +1,5 @@
 # MNIST
-PyTorch codes for classifying the MNIST handwritten digits using a Logistic Regression model, a two layer feedforward neural network and a CNN (LeNet5 architecture). Each notebook also contains the code for displaying incorrectly classified images. The test set accuracies for all the models are as follows - 
+PyTorch codes for classifying the MNIST handwritten digits using Logistic Regression, two layer feedforward neural network and a CNN (LeNet5). Each notebook also contains the code for displaying incorrectly classified images. The test set accuracies for the models are as follows - 
 
 |         Model        | Test Accuracy |
 |:--------------------:|:-------------:|
